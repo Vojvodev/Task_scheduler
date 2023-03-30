@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TaskSchedulerDemo/1.0.0": {
+        "dependencies": {
+          "TaskScheduler": "1.0.0"
+        },
+        "runtime": {
+          "TaskSchedulerDemo.dll": {}
+        }
+      },
+      "TaskScheduler/1.0.0": {
+        "runtime": {
+          "TaskScheduler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskSchedulerDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaskScheduler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
